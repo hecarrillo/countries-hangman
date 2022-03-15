@@ -1,194 +1,196 @@
-Afganistan
+Afghanistan
 Albania
-Alemania
+Algeria
 Andorra
 Angola
-Antigua y Barbuda
-Arabia Saudita
-Argelia
+Antigua & Deps
 Argentina
 Armenia
 Australia
 Austria
-Azerbaiyan
+Azerbaijan
 Bahamas
-Bahrein
-Banglades
+Bahrain
+Bangladesh
 Barbados
-Bielorrusia
-Belgica
-Belice
+Belarus
+Belgium
+Belize
 Benin
-Butan
+Bhutan
 Bolivia
-Bosnia
-Botsuana
-Brasil
+Bosnia Herzegovina
+Botswana
+Brazil
 Brunei
 Bulgaria
-Burkina Faso
+Burkina
 Burundi
-Cabo Verde
-Camboya
-Camerun
+Cambodia
+Cameroon
 Canada
+Cape Verde
+Central African Rep
 Chad
-Republica Checa
-Chequia
 Chile
 China
-Chipre
 Colombia
-Comoras
+Comoros
 Congo
-Republica Democratica del Congo
-Corea del Norte
-Corea del Sur
+Congo {Democratic Rep}
 Costa Rica
-Costa de Marfil
-Croacia
+Croatia
 Cuba
-Dinamarca
-Yibuti
+Cyprus
+Czech Republic
+Denmark
+Djibouti
 Dominica
+Dominican Republic
+East Timor
 Ecuador
-Egipto
+Egypt
 El Salvador
-Emiratos arabes Unidos
+Equatorial Guinea
 Eritrea
-Eslovaquia
-Eslovenia
-España
-Estados Unidos
 Estonia
-Etiopia
-Fiyi
-Filipinas
-Finlandia
-Francia
+Ethiopia
+Fiji
+Finland
+France
 Gabon
 Gambia
 Georgia
+Germany
 Ghana
-Granada
-Grecia
+Greece
+Grenada
 Guatemala
 Guinea
-Guinea Ecuatorial
+Guinea-Bissau
 Guyana
 Haiti
 Honduras
-Hungria
+Hungary
+Iceland
 India
 Indonesia
 Iran
 Iraq
-Irlanda
-Islandia
+Ireland {Republic}
 Israel
-Italia
+Italy
+Ivory Coast
 Jamaica
-Japon
-Jordania
-Kazajistan
-Kenia
-Kirguistan
+Japan
+Jordan
+Kazakhstan
+Kenya
 Kiribati
+Korea North
+Korea South
+Kosovo
 Kuwait
+Kyrgyzstan
 Laos
-Lesoto
-Letonia
-Libano
+Latvia
+Lebanon
+Lesotho
 Liberia
-Libia
+Libya
 Liechtenstein
-Lituania
-Luxemburgo
+Lithuania
+Luxembourg
 Macedonia
 Madagascar
-Malasia
-Malaui
-Maldivas
+Malawi
+Malaysia
+Maldives
 Mali
 Malta
-Marruecos
-Islas Marshall
-Mauricio
+Marshall Islands
 Mauritania
+Mauritius
 Mexico
 Micronesia
-Moldavia
+Moldova
 Monaco
 Mongolia
 Montenegro
+Morocco
 Mozambique
-Birmania
+Myanmar, {Burma}
 Namibia
 Nauru
 Nepal
+Netherlands
+New Zealand
 Nicaragua
 Niger
 Nigeria
-Noruega
-Nueva Zelanda
+Norway
 Oman
-Paises Bajos
 Pakistan
-Palaos
+Palau
 Panama
-Papua Nueva Guinea
+Papua New Guinea
 Paraguay
 Peru
-Polonia
+Philippines
+Poland
 Portugal
 Qatar
-Reino Unido
-Republica Centroafricana
-Republica Dominicana
-Rumania
-Rusia
-Ruanda
-San Cristobal y Nieves
-Islas Salomon
+Romania
+Russian Federation
+Rwanda
+St Kitts & Nevis
+St Lucia
+Saint Vincent & the Grenadines
 Samoa
 San Marino
-Santa Lucia
-Ciudad del Vaticano
-Santo Tome y Principe
-San Vicente y las Granadinas
+Sao Tome & Principe
+Saudi Arabia
 Senegal
 Serbia
 Seychelles
-Sierra Leona
-Singapur
-Siria
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
 Somalia
+South Africa
+South Sudan
+Spain
 Sri Lanka
-Sudafrica
 Sudan
-Sudan del Sur
-Suecia
-Suiza
-Surinam
-Suazilandia
-Tailandia
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
 Tanzania
-Tayikistan
-Timor Oriental
+Thailand
 Togo
 Tonga
-Trinidad y Tobago
-Tunez
+Trinidad & Tobago
+Tunisia
+Turkey
 Turkmenistan
-Turquia
 Tuvalu
-Ucrania
 Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
 Uruguay
 Uzbekistan
 Vanuatu
+Vatican City
 Venezuela
 Vietnam
 Yemen
 Zambia
-Zimbabue
+Zimbabwe

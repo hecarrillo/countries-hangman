@@ -16,7 +16,7 @@ allPlaces = do tempList <- readFile "./places.txt"
 filterLength :: String -> Int -> Int -> Bool
 filterLength word min max = length word >= min && length word <= max
 
-gamePlaces :: IO WordList
+gamePlaces :: WordList
 gamePlaces = do allAvailable <- allPlaces
                 return $ filter (\place -> filterLength place 5 10) allAvailable
 
@@ -29,7 +29,7 @@ randomPlace = do rp <- gamePlaces
                  randomPlaceGen rp
 
 hangman :: IO ()
-hangman = do putStrLn "Bienvenido a 'Adivina el nombre del Pais o Ciudad'"
+hangman = do putStrLn "Bienvenido a 'Adivina el nombre del Lugar'"
              introduction (\z -> length z)
              
 introduction :: (String -> Int) -> IO ()
